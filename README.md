@@ -2,6 +2,8 @@
 
 This is python-based project to analyse influential factors causing road crash and to perform predictive analysis of accident severity using classification supervised machine learning. Essentially, the insights drawn could help creating safer environment and less financial loss due to property damage. The data used is a real traffic accidents data collected in South Australia during the year 2021.
 
+Article of this project can be found in my page [nuki-susanti.github.io](https://nuki-susanti.github.io/data%20analysis/data%20science/machine%20learning/2023/01/10/road-crash-analysis.html)
+
 # Objective
 
 The objective of this road safety analysis to help analyse the influential factors causing traffic accidents, locate accident hot-spots and perform classification supervised machine learning to predict accident severity. Finally, analysis results and findings are presented using Tableau.
