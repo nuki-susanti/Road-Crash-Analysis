@@ -6,10 +6,10 @@ Article of this project can be found in my page [nuki-susanti.github.io](https:/
 
 # Objective
 
-The objective of this road safety analysis to help analyse the influential factors causing traffic accidents, locate accident hot-spots and perform classification supervised machine learning to predict accident severity. Finally, analysis results and findings are presented using Tableau.
+The objective of this road safety analysis to help analyse the influential factors causing traffic accidents, locate accident hot-spots and perform supervised machine learning for predicting accident severity. Finally, analysis results and findings are presented using Tableau.
 This analysis is therefore divided into two parts:
-1. Part 1: Data mining
-2. Part 2: Data modelling
+1. Part 1: Data exploration
+2. Part 2: Data modeling
 
 # Data
 
@@ -35,7 +35,7 @@ and also Tableau
 
 # Presentation
 
-[Tableau - Road Crash Analysis](https://public.tableau.com/app/profile/nuki.susanti/viz/RoadCrashAnalysis_16687247255900/RoadCrashAnalysis)
+[Tableau - Road Crash Analysis](https://public.tableau.com/app/profile/nuki.susanti/viz/RoadCrashAnalysisVer_2/Dashboard1?publish=yes)
 
 
 # Conclusion Analysis
@@ -59,7 +59,8 @@ and also Tableau
 
 <ins>People-based analysis: Sex, Alcohol & Drugs</ins>
 * Ca. 60% of the accidents happens to be male and 40% is female. However, in average, fatality in female (2.24) is higher compared to that in male (1.83).
-* Involvement of alcohol and drugs play little role in the number of accidents. 
+* Involvement of alcohol and drugs play little role in the number of accidents. However, alcohol and drugs involvement increased accident severities of injuries and death (fatality). With alochol involved, number of accidents with fatality increases drastically from 0.5% to 3.7%. While, with drugs involvement, it increases from 0.5% to 4.4%.
+* The similar increase trends are also observed from serious injury and minor injury.
 
 <ins>People-based analysis: Age</ins>
 * The highest number of accident happens with people 20-25 years of age. The number of accidents decreases linearly as a person gets older. 
