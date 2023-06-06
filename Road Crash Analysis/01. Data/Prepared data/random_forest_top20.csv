@@ -1,0 +1,21 @@
+,Feature,Importance
+0,Distance To CC,0.099
+1,Age,0.076
+2,Veh Year,0.074
+3,Hourly,0.071
+4,Area Speed,0.033
+5,Drugs Involved,0.022
+6,Sex,0.015
+7,Day_Wednesday,0.013
+8,Day_Friday,0.013
+9,Age Group_25-34,0.012
+10,Day_Thursday,0.012
+11,Day_Tuesday,0.012
+12,Position Type_T-Junction,0.012
+13,Crash Type_Rear End,0.012
+14,Direction Of Travel_North,0.012
+15,Day_Monday,0.012
+16,Direction Of Travel_South,0.012
+17,Month Group_Q1,0.012
+18,DayNight,0.012
+19,Direction Of Travel_East,0.011
